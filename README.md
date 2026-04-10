@@ -195,10 +195,10 @@ Follow conventional commits and maintain code formatting.
 
 ## 🙋‍♂️ Author
 
-**Raj Singh**
-📧 [Email](mailto:rajsinghh314@gmail.com)
-🌐 [Portfolio](http://rajsinghs.vercel.app/)
-🐙 [GitHub](https://github.com/raj-singhh)
+**Riya Pavar**
+📧 [Email](mailto:riyapawar1211@gmail.com)
+🌐 [Portfolio](https://riyaportfolio7060.netlify.app/)
+🐙 [GitHub](https://github.com/RiyaPavar)
 
 ---
 
