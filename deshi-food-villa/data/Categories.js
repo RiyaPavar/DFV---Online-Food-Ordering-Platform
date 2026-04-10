@@ -1,0 +1,16 @@
+export const categories = [
+  { name: 'Pizza', img: '/categories/pizza.png' },
+  { name: 'North Indian', img: '/categories/north_indian.jpg' },
+  { name: 'Biryani', img: '/categories/biryani.jpg' },
+  { name: 'Chinese', img: '/categories/chinese.jpg' },
+  { name: 'Burger', img: '/categories/burger.png' },
+  { name: 'Cake', img: '/categories/cake.png' },
+  { name: 'Rolls', img: '/categories/rolls.png' },
+  { name: 'Ice Cream', img: '/categories/ice_cream.png' },
+  { name: 'Paratha', img: '/categories/paratha.png' },
+  { name: 'Dosa', img: '/categories/dosa.png' },
+  { name: 'Pure Veg', img: '/categories/pure_veg.png' },
+  { name: 'Chole Bhature', img: '/categories/chole_bhature.png' },
+  { name: 'Kebab', img: '/categories/kebab.avif' },
+  { name: 'Shawarma', img: '/categories/shawarma.png' },
+];
